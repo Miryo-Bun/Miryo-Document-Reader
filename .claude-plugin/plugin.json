@@ -1,0 +1,8 @@
+{
+  "name": "miryo-document-reader",
+  "version": "1.0.0",
+  "description": "Local document reader for TXT, DOCX, XLS, XLSX and PDF files.",
+  "author": {
+    "name": "Miryo Bun"
+  }
+}
